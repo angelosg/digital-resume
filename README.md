@@ -24,16 +24,16 @@ Directed 8-member team in creating and executing product roadmaps for 3 new prod
 
 ## 👩🏼‍🎓 Education
 
-**PhD** Materials Science<br>
+**PhD - ** Materials Science<br>
 [Oregon State University](https://www.oregonstate.edu) - Corvallis, OR _(Sep 2012 - Jun 2017)_ <br>
 
-**MBA** <br>
+**MBA ** <br>
 [Santa Clara University](https://www.scu.edu/) - Santa Clara, CA _(Sep 2021 - Mar 2023)_
 
-**Masters of Science** Applied Physics<br>
+**Masters of Science - ** Applied Physics<br>
 [University of Oregon](https://www.uoregon.edu/) - Eugene, OR _(Jun 2011 - Aug 2012)_
 
-**Bachelors of Science** Physics <br>
+**Bachelors of Science - ** Physics <br>
 [Santa Clara University](https://www.scu.edu) - Santa Clara University _(Sep 2006 - Jun 2010)_
 
 

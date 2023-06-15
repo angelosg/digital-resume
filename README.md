@@ -5,7 +5,7 @@ _Engineer based in Bend, OR_ <br>
 
 [Email](mailto:gregangelos@gmail.com) / [Website]() / [LinkedIn](https://www.linkedin.com/in/greg-angelos/) / [GitHub](https://github.com/angelosg) 
 
-## 👩🏼‍💻 Professional Experience
+##  Professional Experience
 
 **Senior Device Engineer** @ [Qorvo](https://www.qorvo.com) _(Jul 2019 - Mar 2022)_ <br>
 Directed 8-member team in creating and executing product roadmaps for 3 new products that met deadlines and budget requirements. Thrived in role encompassing data science, product management, operations, and program management responsibilities. Led technical projects, automated processes, developed quality standards, coordinated maintenance, and owned key processes. Optimized operations and achieved successful outcomes by analyzing and leveraging data. Drove consistency and reliability throughout ion milling by drafting written quality standards and implementing standardized operations. Developed Tableau dashboards for visualizations used by engineers.

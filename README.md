@@ -19,6 +19,17 @@ Directed 8-member team in creating and executing product roadmaps for 3 new prod
 
 <br><br>
 
+Quality Control (QC) Laboratory & Data Scientist 
+
+Managed diverse portfolio of 8 drug products, conducting stability evaluations and delivered comprehensive reports based on findings to clients. Adhered to strict regulatory guidelines such as Good Manufacturing Practices (GMP). Analyzed data to prepare and deliver customer meeting presentations to communicate development progress and results. 
+
+  -	Achieved successful audits for compliance through meticulous notetaking and process documentation. 
+  -	Maintained zero-finding environment by showcasing well-documented SOPs.
+  - Certified quality and stability of drug products on data-driven decision-making and attention to detail. 
+  - Ensured timely drug product testing to evaluate stability in different environments (A/B testing).
+
+<br><br>
+![image](https://github.com/angelosg/digital-resume/assets/6710008/6a07c666-189d-4acd-bb0c-ea95c2d2c8b6)
 
 
 

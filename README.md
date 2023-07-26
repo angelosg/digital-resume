@@ -17,19 +17,38 @@ Directed 8-member team in creating and executing product roadmaps for 3 new prod
   - Successfully managed high-stress timelines to meet project deadlines, demonstrating passion for continuous learning and adaptability to diverse projects.
   - Mitigated time spent on re-milling wafers by analyzing electrical test data and implementing key adjustments. 
 
-<br><br>
+<br>
 
-Quality Control (QC) Laboratory & Data Scientist 
+**Quality Control (QC) Laboratory & Data Scientist** @ [Seran Bioscience](https://www.seranbio.com) _(Dec 2018 - Jul 2019)_ <br>
 
 Managed diverse portfolio of 8 drug products, conducting stability evaluations and delivered comprehensive reports based on findings to clients. Adhered to strict regulatory guidelines such as Good Manufacturing Practices (GMP). Analyzed data to prepare and deliver customer meeting presentations to communicate development progress and results. 
 
   -	Achieved successful audits for compliance through meticulous notetaking and process documentation. 
   -	Maintained zero-finding environment by showcasing well-documented SOPs.
   - Certified quality and stability of drug products on data-driven decision-making and attention to detail. 
-  - Ensured timely drug product testing to evaluate stability in different environments (A/B testing).
+  - Ensured timely drug product testing to evaluate stability in different environments.
 
-<br><br>
+<br>
 
+**New Business Development & Operations Research Scientist** @ [Fujimi](https://fujimico.com) _(Nov 2017 - Oct 2018)_ <br>
+Hired to lead research, business development, and laboratory initiatives to identify new  revenue-generating projects. Created novel materials and tested performance for various applications (water filtration and nuclear waste removal). Built strong customer relationships, gathered requirements, and tailored solutions to meet specific needs. Worked across cross-functional teams and cultural boundaries in dynamic, ever-changing environment.  
+
+  - Identified new business opportunities by diversifying revenue sources, leading to group’s first revenue generator. 
+  - Improved product development processes by 10-15% through testing and new product creation. 
+  - Played pivotal role in securing $50K contract, building foundation for ongoing growth and success.
+  - Built trust-based customer relationships, effectively communicating complex technical information to non-technical stakeholders.
+  - Implemented cost efficiency improvements, mitigated risk in revenue generation model, and attended conferences and trade shows to understand pain points and create tailored solutions.
+
+<br>
+
+**Graduate Research Assistant** @ [Oregon State University](https://oregonstate.edu) _(Sep 2012 - Jun 2017)_ <br>
+Created roadmap strategy for products, created computer simulations to provide potential outcomes for products, and conducted meetings to discuss project progress and milestones with stakeholders. Established efficiency metrics, set timelines, determined key materials, and drove data-driven decisions for continuous improvement. Built devices using material depositions and material characterizations. Led process optimization for thin-film materials deposition, annealing, and electrical testing. Budgeted for research and wrote a thesis on the benefits of copper-based materials for solar cells. 
+
+  - Successfully secured year-long funding to pursue innovative business development ideas.
+  - Uncovered opportunity to improve overall cell efficiency by over 13%. Pitched idea to stakeholders to grain Phase One funding.
+  - Maintained 100% buy-in rate by translating complex data science concepts or findings into actionable recommendations for non-technical stakeholders.
+
+<br>
 
 
 

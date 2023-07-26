@@ -29,7 +29,7 @@ Managed diverse portfolio of 8 drug products, conducting stability evaluations a
   - Ensured timely drug product testing to evaluate stability in different environments (A/B testing).
 
 <br><br>
-![image](https://github.com/angelosg/digital-resume/assets/6710008/6a07c666-189d-4acd-bb0c-ea95c2d2c8b6)
+
 
 
 

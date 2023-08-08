@@ -7,6 +7,24 @@ _Engineer based in Bend, OR_ <br>
 ##  About Me
 
 
+
+IDEATION & OWNERSHIP: Served as device engineer who owned deposition, ion-mill, and electrical test processes at Qorvo, Inc. with focus on working directly with tools and process that positively impacted overall business operations. Drove diversity of thought and innovated processes for streamlined productivity. 
+		
+DEVELOPMENT & TESTING: Designed, prototyped, tested, and executed all projects on schedule. Created product roadmaps for 3 new Qorvo products and built Tableau dashboards to save time, ensure quality, and facilitate communication with engineering.
+
+CONTINUOUS IMPROVEMENT: Initiated biweekly process improvement meetings with product engineers to uncover root cause of low yield via data analysis and design experiments. Characterized materials and adjusted accordingly to improve device yield by 10%.
+
+LEADERSHIP: Mentored struggling team members to excel and successfully progress in their careers.  Led group projects throughout MBA program. Connected to individuals across multi-level skills and departments at Qorvo, Inc. and practiced active/empathetic listening.
+
+OPERATIONAL EXPERTISE
+Product Roadmap Creation, Root Cause Analysis, Process Standardization & Automation, Contract Negotiation, Budget Management, Standard Operating Procedures (SOPs), A/B Testing, Customer Acquisition & Retention, Agile/Scrum, Technical Documentation, Team Building & Leadership, Coaching, Mentoring, Communication, Analytical Problem Solving, Attention to Detail
+
+TECHNOLOGY EXPERTISE
+Python, SQL/MySQL, MATLAB, Advanced Excel, Machine Learning, Exploratory Data Analysis (EDA), PySpark Pandas, Data Science, Data Visualization, Spotfire, Thin-Film Deposition & Characterization, High-Performance Liquid Chromatography (HPLC), Dissolution, Karl Fischer (KF) Titration, Electrical Device Characterization, X-Ray Diffraction (XRD)
+
+
+
+
 ## 🏢 Professional Experience
 
 **Senior Device Engineer** @ [Qorvo](https://www.qorvo.com) _(Jul 2019 - Mar 2022)_ <br>

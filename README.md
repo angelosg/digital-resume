@@ -2,7 +2,7 @@
 
 _Engineer based in Bend, OR_ <br>
 
-[Email](mailto:gregangelos@gmail.com) / [Website]() / [LinkedIn](https://www.linkedin.com/in/greg-angelos/) / [GitHub](https://github.com/angelosg) 
+[Email](mailto:gregangelos@gmail.com) / [Website](https://angelosg.github.io/GregAngelos_Portfolio/) / [LinkedIn](https://www.linkedin.com/in/greg-angelos/) / [GitHub](https://github.com/angelosg) 
 
 ##  About Me
 
